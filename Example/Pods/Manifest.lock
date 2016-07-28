@@ -1,0 +1,16 @@
+PODS:
+  - UMWDropdownNotification (0.1.0)
+
+DEPENDENCIES:
+  - UMWDropdownNotification (from `../`)
+
+EXTERNAL SOURCES:
+  UMWDropdownNotification:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UMWDropdownNotification: b9f1f5c211bb4390757074fa923df2ae2d5779af
+
+PODFILE CHECKSUM: 4accbe8f78902df21f0a2f3962ed7709719c6103
+
+COCOAPODS: 1.0.1

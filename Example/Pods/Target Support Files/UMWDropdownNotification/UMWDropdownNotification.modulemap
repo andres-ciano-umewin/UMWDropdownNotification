@@ -1,0 +1,6 @@
+framework module UMWDropdownNotification {
+  umbrella header "UMWDropdownNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}
